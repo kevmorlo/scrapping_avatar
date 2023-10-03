@@ -1,5 +1,5 @@
 # scrapping_avatar
-Ce projet d'école est un exercice de Javascript dans lequel on récupère tous les éléments nécessaire pour générer un avatar sous forme d'un fichier yaml.
+Ce projet d'école est un exercice de Javascript dans lequel on récupère tous les éléments nécessaires pour générer un avatar sous forme d'un fichier yaml.
 ## License
 
 Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
